@@ -1,0 +1,10 @@
+server:
+  port: 8086
+  servlet:
+    context-path: /api/v1/fuel-calculator
+
+spring:
+  activemq:
+    broker-url: tcp://localhost:61617
+  jackson:
+    serialization.write_dates_as_timestamps: false
