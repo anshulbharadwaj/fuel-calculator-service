@@ -1,0 +1,393 @@
+[
+
+    {
+        "townname": "Agra",
+        "petrol": "87.39",
+        "diesel": "79.4",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Akbarpur",
+        "petrol": "87.46",
+        "diesel": "79.5",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Aligarh",
+        "petrol": "87.63",
+        "diesel": "79.67",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Allahabad",
+        "petrol": "87.56",
+        "diesel": "79.64",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Auraiya",
+        "petrol": "87.82",
+        "diesel": "79.92",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Bagpat",
+        "petrol": "87.59",
+        "diesel": "79.64",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Bahraich",
+        "petrol": "87.83",
+        "diesel": "79.95",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Ballia",
+        "petrol": "88.12",
+        "diesel": "80.27",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Balrampur",
+        "petrol": "87.7",
+        "diesel": "79.8",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Banda",
+        "petrol": "88.18",
+        "diesel": "80.34",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Barabanki",
+        "petrol": "87.68",
+        "diesel": "79.77",
+        "ismetro": "N"
+    },
+    {
+        "townname": "BARABANKI OML",
+        "petrol": "87.73",
+        "diesel": "79.83",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Bareilly",
+        "petrol": "87.65",
+        "diesel": "79.72",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Basti",
+        "petrol": "88.03",
+        "diesel": "80.17",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Bijnor",
+        "petrol": "87.45",
+        "diesel": "79.49",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Budaun",
+        "petrol": "87.48",
+        "diesel": "79.52",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Bulandshahr",
+        "petrol": "88.02",
+        "diesel": "80.12",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Chandauli",
+        "petrol": "87.54",
+        "diesel": "79.61",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Deoria",
+        "petrol": "87.42",
+        "diesel": "79.46",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Etah",
+        "petrol": "87.52",
+        "diesel": "79.55",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Etawah",
+        "petrol": "87.81",
+        "diesel": "79.89",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Faizabad",
+        "petrol": "87.78",
+        "diesel": "79.9",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Fatehpur",
+        "petrol": "75.55",
+        "diesel": "65.52",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Firozabad",
+        "petrol": "87.25",
+        "diesel": "79.23",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Gauriganj",
+        "petrol": "88.19",
+        "diesel": "80.36",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Ghaziabad",
+        "petrol": "87.54",
+        "diesel": "79.59",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Ghazipur",
+        "petrol": "88.2",
+        "diesel": "80.37",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Gonda",
+        "petrol": "87.52",
+        "diesel": "79.59",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Gorakhpur",
+        "petrol": "87.62",
+        "diesel": "79.69",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Hardoi",
+        "petrol": "87.75",
+        "diesel": "79.85",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Jaunpur",
+        "petrol": "88.22",
+        "diesel": "80.4",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Jhansi",
+        "petrol": "87.31",
+        "diesel": "79.31",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Jyotiba_Phule_Nagar",
+        "petrol": "87.84",
+        "diesel": "79.94",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Kannauj",
+        "petrol": "87.85",
+        "diesel": "79.95",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Kanpur",
+        "petrol": "87.37",
+        "diesel": "79.39",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Kasganj",
+        "petrol": "87.73",
+        "diesel": "79.8",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Kaushambi",
+        "petrol": "87.75",
+        "diesel": "79.85",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Kushinagar",
+        "petrol": "87.72",
+        "diesel": "79.8",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Lakhimpur-Kheri",
+        "petrol": "88.06",
+        "diesel": "80.21",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Lalitpur",
+        "petrol": "87.95",
+        "diesel": "80.06",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Lucknow",
+        "petrol": "87.63",
+        "diesel": "79.7",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Mahamaya-Nagar",
+        "petrol": "87.45",
+        "diesel": "79.46",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Maharajganj",
+        "petrol": "87.88",
+        "diesel": "80",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Mahoba",
+        "petrol": "88.31",
+        "diesel": "80.48",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Mainpuri",
+        "petrol": "87.73",
+        "diesel": "79.79",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Mathura",
+        "petrol": "87.12",
+        "diesel": "79.07",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Mau",
+        "petrol": "88.07",
+        "diesel": "80.21",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Meerut",
+        "petrol": "87.39",
+        "diesel": "79.41",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Mirzapur",
+        "petrol": "87.91",
+        "diesel": "80.04",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Moradabad",
+        "petrol": "87.94",
+        "diesel": "80.06",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Muzaffarnagar",
+        "petrol": "87.63",
+        "diesel": "79.69",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Noida",
+        "petrol": "87.69",
+        "diesel": "79.76",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Orai",
+        "petrol": "87.81",
+        "diesel": "79.9",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Pilibhit",
+        "petrol": "87.92",
+        "diesel": "80.03",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Pratapgarh",
+        "petrol": "88.2",
+        "diesel": "80.39",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Raebareli",
+        "petrol": "87.9",
+        "diesel": "80.03",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Rampur",
+        "petrol": "89.69",
+        "diesel": "80.7",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Robertsganj",
+        "petrol": "87.98",
+        "diesel": "80.12",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Saharanpur",
+        "petrol": "88.12",
+        "diesel": "80.26",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Sant_Kabir_Nagar",
+        "petrol": "87.82",
+        "diesel": "79.92",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Shahjahanpur",
+        "petrol": "87.45",
+        "diesel": "79.5",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Sitapur",
+        "petrol": "87.94",
+        "diesel": "80.07",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Sultanpur",
+        "petrol": "90.29",
+        "diesel": "81.33",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Unnao",
+        "petrol": "87.52",
+        "diesel": "79.57",
+        "ismetro": "N"
+    },
+    {
+        "townname": "Varanasi",
+        "petrol": "88.15",
+        "diesel": "80.32",
+        "ismetro": "N"
+    }
+]
