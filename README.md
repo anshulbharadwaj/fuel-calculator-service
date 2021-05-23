@@ -1,4 +1,3 @@
 # fuel-calculator-service
 
-This is a fuel calculator service which listens to an event and make an api call to fetch fuel price for an indian city.
-It also calculates the price of fuel which would be consumed by a vehicle
+Fuel calculator service(event receving service) which handles events using a message broker. Additionally, this service makes a third party api call to fetch fuel price for a given indian city. Based on fuel price and event metadata received, it calculates the amount of fuel which would be consumed by a vehicle
