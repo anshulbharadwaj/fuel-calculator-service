@@ -8,6 +8,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -48,7 +49,7 @@ public class FuelCalculatorService {
                     .filter(fuel -> fuel.getTownname().equalsIgnoreCase(city))
                     .findFirst();
 
-        } catch (JsonProcessingException exception) {
+        } catch (JsonProcessingException | JSONException exception) {
             log.error("Error occurred while processing city details json {}", exception);
         } catch (IOException | InterruptedException exception) {
             log.error("Error occurred while retrieving fuel prices {}", exception);
@@ -63,7 +64,7 @@ public class FuelCalculatorService {
      * @return state code for input city
      * @throws JsonProcessingException jsonProcessingException
      */
-    private String findStateCodeForInputCity(String city) throws JsonProcessingException {
+    private String findStateCodeForInputCity(String city) throws JsonProcessingException, JSONException {
         String stateName = "";
         JSONArray jsonArray = new JSONArray(FuelCalculatorUtil.readJsonFile(INPUT_FILE_INDIAN_CITIES));
 
